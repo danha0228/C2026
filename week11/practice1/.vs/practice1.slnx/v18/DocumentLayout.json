@@ -3,17 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D109E09C-E322-44EA-9B7C-9928B8E334FE}|..\\practice4\\practice4.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5242D857-5896-4829-A842-3B529F02EAFA}|practice1\\practice1.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice1\\practice1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5242D857-5896-4829-A842-3B529F02EAFA}|practice1\\practice1.vcxproj|solutionrelative:practice1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332F1764-A186-4425-A716-B149956EC7FB}|..\\practice3\\practice3.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EACB4FAB-DB62-4CFA-B7AB-01252C9B969E}|..\\practice2\\practice2.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D109E09C-E322-44EA-9B7C-9928B8E334FE}|..\\practice4\\practice4.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5242D857-5896-4829-A842-3B529F02EAFA}|practice1\\practice1.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice1\\practice1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5242D857-5896-4829-A842-3B529F02EAFA}|practice1\\practice1.vcxproj|solutionrelative:practice1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EACB4FAB-DB62-4CFA-B7AB-01252C9B969E}|..\\practice2\\practice2.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,11 +23,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice4\\main.cpp",
               "RelativeDocumentMoniker": "..\\practice4\\main.cpp",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice2\\main.cpp",
               "RelativeDocumentMoniker": "..\\practice2\\main.cpp",
@@ -64,12 +64,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-16T13:48:51.353Z",
-              "EditorCaption": "",
               "OwnerCaption": "%3"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\\uACFC\uC81C\\C\uD504\uB85C\uADF8\uB798\uBC0D\\C2026\\week11\\practice1\\practice1\\main.cpp",
               "RelativeDocumentMoniker": "practice1\\main.cpp",

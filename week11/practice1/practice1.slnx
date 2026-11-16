@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../practice2/practice2.vcxproj" />
-  <Project Path="../practice3/practice3.vcxproj" />
-  <Project Path="../practice4/practice4.vcxproj" />
-  <Project Path="practice1/practice1.vcxproj" />
+  <Project Path="../practice2/practice2.vcxproj" Id="eacb4fab-db62-4cfa-b7ab-01252c9b969e" />
+  <Project Path="../practice3/practice3.vcxproj" Id="332f1764-a186-4425-a716-b149956ec7fb" />
+  <Project Path="../practice4/practice4.vcxproj" Id="d109e09c-e322-44ea-9b7c-9928b8e334fe" />
+  <Project Path="practice1/practice1.vcxproj" Id="5242d857-5896-4829-a842-3b529f02eafa" />
 </Solution>
