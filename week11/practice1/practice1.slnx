@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../practice2/practice2.vcxproj" />
+  <Project Path="../practice3/practice3.vcxproj" />
+  <Project Path="../practice4/practice4.vcxproj" />
+  <Project Path="practice1/practice1.vcxproj" />
+</Solution>
